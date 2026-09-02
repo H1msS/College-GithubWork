@@ -1,0 +1,4 @@
+Git is a distributed version control system.
+GitHub is a cloud-based platform for hosting Git repositories.
+
+Also Meow Meow.
